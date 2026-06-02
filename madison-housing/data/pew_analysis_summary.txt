@@ -20,7 +20,7 @@ MADISON HOUSING STUDY — PEW-STYLE ANALYSIS FINDINGS
 
 ── 2. SUPPLY → RENT LAGGED CORRELATION ────────────────────────────
   Austin, TX       lag=1yr  r=+0.125  p=0.714  (positive (supply ↑ → rent growth ↑))
-  Austin, TX       lag=2yr  r=-0.165  p=0.650  (negative (supply ↑ → rent growth ↓))
+  Austin, TX       lag=2yr  r=-0.164  p=0.650  (negative (supply ↑ → rent growth ↓))
   Madison, WI      lag=1yr  r=-0.438  p=0.178  (negative (supply ↑ → rent growth ↓))
   Madison, WI      lag=2yr  r=-0.320  p=0.367  (negative (supply ↑ → rent growth ↓))
   ** p<0.05  * p<0.10
@@ -59,11 +59,11 @@ MADISON HOUSING STUDY — PEW-STYLE ANALYSIS FINDINGS
     Asian:     -1.3 pp  (66.4% vs 67.7% White)
 
 ── 7. SUPPLY SCENARIO PROJECTION (5-YEAR) ─────────────────────────
-  Elasticity estimated from Austin data: -0.00165 pp AMI per unit/100k change/yr
+  Elasticity estimated from Austin data: -0.00163 pp AMI per unit/100k change/yr
 
   Current pace                    489 units/100k  (1348 units/yr)  → threshold: 70.9% AMI (-0.0 pp over 5 yrs)
-  2× current pace                 979 units/100k  (2697 units/yr)  → threshold: 66.8% AMI (-4.0 pp over 5 yrs)
-  Austin 2021-23 pace             957 units/100k  (2637 units/yr)  → threshold: 67.0% AMI (-3.9 pp over 5 yrs)
-  1.5× Austin pace                1436 units/100k  (3956 units/yr)  → threshold: 63.1% AMI (-7.8 pp over 5 yrs)
+  2× current pace                 979 units/100k  (2697 units/yr)  → threshold: 66.9% AMI (-4.0 pp over 5 yrs)
+  Austin 2021-23 pace             957 units/100k  (2637 units/yr)  → threshold: 67.1% AMI (-3.8 pp over 5 yrs)
+  1.5× Austin pace                1436 units/100k  (3956 units/yr)  → threshold: 63.1% AMI (-7.7 pp over 5 yrs)
 
 ========================================================================

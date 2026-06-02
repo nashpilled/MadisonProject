@@ -1,0 +1,53 @@
+========================================================================
+MADISON HOUSING STUDY — EXTENDED ANALYSIS FINDINGS
+========================================================================
+
+── A. RENT-INCOME DIVERGENCE BY RACE (2015=100) ───────────────────
+
+  Madison, WI (latest year):
+    Rent index:     145.3
+    White_NonHisp      income idx=139.3  rent/income pressure=1.04
+    Black_AA           income idx=158.9  rent/income pressure=0.91
+    Hispanic           income idx=181.8  rent/income pressure=0.80
+    Asian              income idx=152.3  rent/income pressure=0.95
+  (pressure > 1.0 means rent outpaced income since 2015)
+
+  Austin, TX (latest year):
+    Rent index:     158.1
+    White_NonHisp      income idx=150.4  rent/income pressure=1.05
+    Black_AA           income idx=161.7  rent/income pressure=0.98
+    Hispanic           income idx=172.0  rent/income pressure=0.92
+    Asian              income idx=159.9  rent/income pressure=0.99
+  (pressure > 1.0 means rent outpaced income since 2015)
+
+── B. SUPPLY MIX SHIFT (MF_LARGE SHARE TREND) ─────────────────────
+  Austin, TX       slope=+0.0282/yr  R²=0.796  p=0.001**  (increasing MF share)  MF share: 65.0% → 82.8%
+  Madison, WI      slope=-0.0854/yr  R²=0.499  p=0.033**  (decreasing MF share)  MF share: 67.0% → 4.4%
+
+── C. SEVERE COST BURDEN (50%+ OF INCOME ON RENT) ─────────────────
+  Madison, WI
+    2015: 29.0% severely burdened  →  2023: 25.1%  (-3.9 pp)
+  Austin, TX
+    2015: 23.8% severely burdened  →  2023: 22.0%  (-1.7 pp)
+
+── D. COUNTERFACTUAL RENT PROJECTION ───────────────────────────────
+  Supply elasticity (Austin): $-0.01/mo ZORI per unit/100k added
+
+  If Madison had matched Austin's supply rate since 2015:
+    Actual Madison rent (2026):        $1,690/mo
+    Counterfactual rent (2026):        $1,564/mo
+    Estimated savings:                 $126/mo (-7.5%)
+
+── E. PERMIT ACCELERATION / DECELERATION (2015-2023) ──────────────
+  Austin, TX       +151.8 units/100k/yr²  avg=1859/100k  p=0.001**  (accelerating)
+  Madison, WI      -43.0 units/100k/yr²  avg=584/100k  p=0.168  (decelerating)
+
+── F. DISPLACEMENT RISK INDEX (0-100, higher = more risk) ─────────
+  Madison, WI
+    2016: 28.0  →  2023: 39.0  (↑ worsening)
+    Peak risk year: 2020  (score 43.5)
+  Austin, TX
+    2016: 19.9  →  2023: 16.1  (↓ improving)
+    Peak risk year: 2022  (score 29.0)
+
+========================================================================
