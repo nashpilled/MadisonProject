@@ -20,9 +20,9 @@ city,year,permit_class,units_permitted
 "Austin, TX",2016.0,MF_large,6453
 "Austin, TX",2016.0,MF_small,343
 "Austin, TX",2016.0,SF,4398
-"Austin, TX",2017.0,MF_large,7225
+"Austin, TX",2017.0,MF_large,7195
 "Austin, TX",2017.0,MF_small,406
-"Austin, TX",2017.0,SF,5054
+"Austin, TX",2017.0,SF,5000
 "Austin, TX",2018.0,MF_large,10684
 "Austin, TX",2018.0,MF_small,516
 "Austin, TX",2018.0,SF,4869
