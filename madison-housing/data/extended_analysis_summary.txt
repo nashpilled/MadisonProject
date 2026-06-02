@@ -21,7 +21,7 @@ MADISON HOUSING STUDY — EXTENDED ANALYSIS FINDINGS
   (pressure > 1.0 means rent outpaced income since 2015)
 
 ── B. SUPPLY MIX SHIFT (MF_LARGE SHARE TREND) ─────────────────────
-  Austin, TX       slope=+0.0282/yr  R²=0.796  p=0.001**  (increasing MF share)  MF share: 65.0% → 82.8%
+  Austin, TX       slope=+0.0281/yr  R²=0.798  p=0.001**  (increasing MF share)  MF share: 65.0% → 82.8%
   Madison, WI      slope=-0.0854/yr  R²=0.499  p=0.033**  (decreasing MF share)  MF share: 67.0% → 4.4%
 
 ── C. SEVERE COST BURDEN (50%+ OF INCOME ON RENT) ─────────────────
@@ -39,7 +39,7 @@ MADISON HOUSING STUDY — EXTENDED ANALYSIS FINDINGS
     Estimated savings:                 $126/mo (-7.5%)
 
 ── E. PERMIT ACCELERATION / DECELERATION (2015-2023) ──────────────
-  Austin, TX       +151.8 units/100k/yr²  avg=1859/100k  p=0.001**  (accelerating)
+  Austin, TX       +152.1 units/100k/yr²  avg=1858/100k  p=0.001**  (accelerating)
   Madison, WI      -43.0 units/100k/yr²  avg=584/100k  p=0.168  (decelerating)
 
 ── F. DISPLACEMENT RISK INDEX (0-100, higher = more risk) ─────────
