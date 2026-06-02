@@ -1,0 +1,5 @@
+city,lag_years,pearson_r,p_value,n,interpretation
+"Austin, TX",1,0.125,0.714,11,positive (supply ↑ → rent growth ↑)
+"Austin, TX",2,-0.165,0.65,10,negative (supply ↑ → rent growth ↓)
+"Madison, WI",1,-0.438,0.178,11,negative (supply ↑ → rent growth ↓)
+"Madison, WI",2,-0.32,0.367,10,negative (supply ↑ → rent growth ↓)

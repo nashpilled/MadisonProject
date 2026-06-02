@@ -182,3 +182,25 @@ def run():
 
 if __name__ == "__main__":
     run()
+
+
+def chart_scenario_projection():
+    df = pd.read_csv("data/scenario_projection.csv")
+    fig, ax = plt.subplots(figsize=(10, 5))
+    colors = ["#aec7e8", "#1f77b4", "#d62728", "#ff7f0e"]
+    bars = ax.barh(df["scenario"], df["projected_threshold_pct_ami_5yr"],
+                   color=colors, edgecolor="white")
+    ax.axvline(df[df["scenario"] == "Current pace"]["projected_threshold_pct_ami_5yr"].values[0],
+               color="#aaa", linewidth=1.2, linestyle="--", label="Current trajectory")
+    for bar, (_, row) in zip(bars, df.iterrows()):
+        ax.text(bar.get_width() + 0.3, bar.get_y() + bar.get_height() / 2,
+                f"{row['projected_threshold_pct_ami_5yr']:.1f}% AMI ({row['change_pp_5yr']:+.1f} pp)",
+                va="center", fontsize=9)
+    ax.set_xlabel("% of AMI Needed to Afford Median Rent (5-yr projection)")
+    ax.set_title("Madison: Supply Scenario Projections — AMI Affordability Threshold (5-Year)",
+                 fontsize=12, fontweight="bold")
+    ax.set_xlim(55, 80)
+    fig.tight_layout()
+    fig.savefig("viz/scenario_projection.png")
+    plt.close(fig)
+    print("Saved viz/scenario_projection.png")
