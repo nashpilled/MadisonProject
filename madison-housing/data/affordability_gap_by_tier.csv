@@ -1,0 +1,91 @@
+city,year,ami_tier,affordable_monthly_rent,market_rent,gap
+"Madison, WI",2015,Extremely Low (30% AMI),411.72,939,-527.28
+"Madison, WI",2015,Very Low (50% AMI),686.2,939,-252.8
+"Madison, WI",2015,Low (80% AMI),1097.92,939,158.92
+"Madison, WI",2015,Moderate (100% AMI),1372.4,939,433.4
+"Madison, WI",2015,Middle (120% AMI),1646.88,939,707.88
+"Madison, WI",2016,Extremely Low (30% AMI),423.48,959,-535.52
+"Madison, WI",2016,Very Low (50% AMI),705.8,959,-253.2
+"Madison, WI",2016,Low (80% AMI),1129.28,959,170.28
+"Madison, WI",2016,Moderate (100% AMI),1411.6,959,452.6
+"Madison, WI",2016,Middle (120% AMI),1693.92,959,734.92
+"Madison, WI",2017,Extremely Low (30% AMI),445.4,1008,-562.6
+"Madison, WI",2017,Very Low (50% AMI),742.34,1008,-265.66
+"Madison, WI",2017,Low (80% AMI),1187.74,1008,179.74
+"Madison, WI",2017,Moderate (100% AMI),1484.67,1008,476.67
+"Madison, WI",2017,Middle (120% AMI),1781.61,1008,773.61
+"Madison, WI",2018,Extremely Low (30% AMI),471.8,1068,-596.2
+"Madison, WI",2018,Very Low (50% AMI),786.32,1068,-281.68
+"Madison, WI",2018,Low (80% AMI),1258.12,1068,190.12
+"Madison, WI",2018,Moderate (100% AMI),1572.65,1068,504.65
+"Madison, WI",2018,Middle (120% AMI),1887.18,1068,819.18
+"Madison, WI",2019,Extremely Low (30% AMI),489.99,1118,-628.01
+"Madison, WI",2019,Very Low (50% AMI),816.65,1118,-301.35
+"Madison, WI",2019,Low (80% AMI),1306.64,1118,188.64
+"Madison, WI",2019,Moderate (100% AMI),1633.3,1118,515.3
+"Madison, WI",2019,Middle (120% AMI),1959.96,1118,841.96
+"Madison, WI",2020,Extremely Low (30% AMI),506.74,1147,-640.26
+"Madison, WI",2020,Very Low (50% AMI),844.56,1147,-302.44
+"Madison, WI",2020,Low (80% AMI),1351.3,1147,204.3
+"Madison, WI",2020,Moderate (100% AMI),1689.12,1147,542.12
+"Madison, WI",2020,Middle (120% AMI),2026.95,1147,879.95
+"Madison, WI",2021,Extremely Low (30% AMI),528.5,1212,-683.5
+"Madison, WI",2021,Very Low (50% AMI),880.82,1212,-331.18
+"Madison, WI",2021,Low (80% AMI),1409.32,1212,197.32
+"Madison, WI",2021,Moderate (100% AMI),1761.65,1212,549.65
+"Madison, WI",2021,Middle (120% AMI),2113.98,1212,901.98
+"Madison, WI",2022,Extremely Low (30% AMI),561.71,1291,-729.29
+"Madison, WI",2022,Very Low (50% AMI),936.19,1291,-354.81
+"Madison, WI",2022,Low (80% AMI),1497.9,1291,206.9
+"Madison, WI",2022,Moderate (100% AMI),1872.38,1291,581.38
+"Madison, WI",2022,Middle (120% AMI),2246.85,1291,955.85
+"Madison, WI",2023,Extremely Low (30% AMI),577.37,1364,-786.63
+"Madison, WI",2023,Very Low (50% AMI),962.29,1364,-401.71
+"Madison, WI",2023,Low (80% AMI),1539.66,1364,175.66
+"Madison, WI",2023,Moderate (100% AMI),1924.57,1364,560.57
+"Madison, WI",2023,Middle (120% AMI),2309.49,1364,945.49
+"Austin, TX",2015,Extremely Low (30% AMI),432.67,1047,-614.33
+"Austin, TX",2015,Very Low (50% AMI),721.11,1047,-325.89
+"Austin, TX",2015,Low (80% AMI),1153.78,1047,106.78
+"Austin, TX",2015,Moderate (100% AMI),1442.23,1047,395.23
+"Austin, TX",2015,Middle (120% AMI),1730.67,1047,683.67
+"Austin, TX",2016,Extremely Low (30% AMI),457.04,1106,-648.96
+"Austin, TX",2016,Very Low (50% AMI),761.74,1106,-344.26
+"Austin, TX",2016,Low (80% AMI),1218.78,1106,112.78
+"Austin, TX",2016,Moderate (100% AMI),1523.48,1106,417.48
+"Austin, TX",2016,Middle (120% AMI),1828.17,1106,722.17
+"Austin, TX",2017,Extremely Low (30% AMI),477.88,1165,-687.12
+"Austin, TX",2017,Very Low (50% AMI),796.46,1165,-368.54
+"Austin, TX",2017,Low (80% AMI),1274.34,1165,109.34
+"Austin, TX",2017,Moderate (100% AMI),1592.92,1165,427.92
+"Austin, TX",2017,Middle (120% AMI),1911.51,1165,746.51
+"Austin, TX",2018,Extremely Low (30% AMI),505.96,1225,-719.04
+"Austin, TX",2018,Very Low (50% AMI),843.27,1225,-381.73
+"Austin, TX",2018,Low (80% AMI),1349.24,1225,124.24
+"Austin, TX",2018,Moderate (100% AMI),1686.55,1225,461.55
+"Austin, TX",2018,Middle (120% AMI),2023.86,1225,798.86
+"Austin, TX",2019,Extremely Low (30% AMI),536.82,1280,-743.18
+"Austin, TX",2019,Very Low (50% AMI),894.7,1280,-385.3
+"Austin, TX",2019,Low (80% AMI),1431.52,1280,151.52
+"Austin, TX",2019,Moderate (100% AMI),1789.4,1280,509.4
+"Austin, TX",2019,Middle (120% AMI),2147.28,1280,867.28
+"Austin, TX",2020,Extremely Low (30% AMI),568.14,1346,-777.86
+"Austin, TX",2020,Very Low (50% AMI),946.9,1346,-399.1
+"Austin, TX",2020,Low (80% AMI),1515.04,1346,169.04
+"Austin, TX",2020,Moderate (100% AMI),1893.8,1346,547.8
+"Austin, TX",2020,Middle (120% AMI),2272.56,1346,926.56
+"Austin, TX",2021,Extremely Low (30% AMI),592.24,1415,-822.76
+"Austin, TX",2021,Very Low (50% AMI),987.06,1415,-427.94
+"Austin, TX",2021,Low (80% AMI),1579.3,1415,164.3
+"Austin, TX",2021,Moderate (100% AMI),1974.12,1415,559.12
+"Austin, TX",2021,Middle (120% AMI),2368.95,1415,953.95
+"Austin, TX",2022,Extremely Low (30% AMI),649.17,1549,-899.83
+"Austin, TX",2022,Very Low (50% AMI),1081.95,1549,-467.05
+"Austin, TX",2022,Low (80% AMI),1731.12,1549,182.12
+"Austin, TX",2022,Moderate (100% AMI),2163.9,1549,614.9
+"Austin, TX",2022,Middle (120% AMI),2596.68,1549,1047.68
+"Austin, TX",2023,Extremely Low (30% AMI),685.96,1655,-969.04
+"Austin, TX",2023,Very Low (50% AMI),1143.26,1655,-511.74
+"Austin, TX",2023,Low (80% AMI),1829.22,1655,174.22
+"Austin, TX",2023,Moderate (100% AMI),2286.53,1655,631.53
+"Austin, TX",2023,Middle (120% AMI),2743.83,1655,1088.83
